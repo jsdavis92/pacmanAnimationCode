@@ -3,4 +3,4 @@
 
 To run this Animation, simply click the link titled "Pacman Animation"
 <br> Future improvements to this code will include a "Stop" and "Start" button that will halt/continue the animation.<br>
-
+<br>Thanks for stopping by!</br>
