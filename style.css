@@ -1,0 +1,55 @@
+html, body {
+  text-align: center;
+  height: 100%;
+  width: 100%;
+}
+
+#addButton {
+  background-image: linear-gradient(to right,slateblue, violet);
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#startButton {
+  background-image: linear-gradient(to right, violet , slateblue );
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#stopButton {
+  background-color: red;
+  border: none;
+  border-radius: 15px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+#instructions {
+
+  border-radius: 20px;
+  width: 800px;
+  height: 52px;
+  padding: 10px;
+  border: 10px solid violet;
+  background: white;
+  margin: auto;
+  font-weight: bold;
+  color: black;
+  font-size: 15px;
+}
