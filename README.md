@@ -16,6 +16,6 @@ Future improvement to Pacmen Factory App include include the following;
  - A counter for total number of Pacmen on the screen
 
 
-## <a href="https://jsdavis92.github.io/pacmanAnimationCode/">Run Pacmen Factory Appr</a>
+## <a href="https://jsdavis92.github.io/pacmanAnimationCode/">Run Pacmen Factory App</a>
 ### <a href="https://github.com/jsdavis92/pacmanAnimationCode/blob/main/LICENSE">MIT Usage License</a>
 
